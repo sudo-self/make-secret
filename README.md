@@ -24,7 +24,8 @@ cd make-secret
 bash 32.sh
 
 ```
-![Screenshot 2024-01-21 at 1 06 22 PM](https://github.com/sudo-self/make-secret/assets/119916323/8f656247-06a9-43ee-8ea3-19423aa210dc)
+![Screenshot 2024-01-21 at 2 09 00 PM](https://github.com/sudo-self/make-secret/assets/119916323/a0373a18-c08c-4d64-a6ce-690594baa86c)
+
 
 package.json
 
@@ -33,3 +34,4 @@ package.json
 ## <a href="https://make-secret.vercel.app/64">make Secret 64</a>
 
 ### <a href="https://github.com/sudo-self/make-secret/archive/refs/tags/apk.zip">Token32.apk Android</a>
+
