@@ -1,8 +1,11 @@
-# make-secret with browser, terminal, npm, command prompt. 
+# make-secret with browser, terminal, npm.
 
 ## <a href="https://make-secret.vercel.app/32">make Secret 32
 
 ## <a href="https://make-secret.vercel.app/48">make Secret 48
+
+## <a href="https://make-secret.vercel.app/64">make Secret 64
+
 
 ## Command Line
 
