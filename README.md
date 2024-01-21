@@ -1,8 +1,8 @@
 # make-secret with browser or command line
 
-## <a href="https://make-secret.vercel.app/32">Make Secret 32
+## <a href="https://make-secret.vercel.app/32">make Secret 32
 
-## <a href="https://make-secret.vercel.app/48">Make Secret 48
+## <a href="https://make-secret.vercel.app/48">make Secret 48
 
 ## Command Line
 
