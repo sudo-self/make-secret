@@ -7,13 +7,22 @@
 
 ## <img width="723" alt="Screenshot 2024-01-21 at 10 12 36 AM" src="https://github.com/sudo-self/make-secret/assets/119916323/a9e29c23-7b04-4166-9471-ee53eff2e1c0">
 
-## Command Line
+
+
+## Command Lin
 
 ```
 curl https://make-secret.vercel.app/32
 
 ```
-## bash 32.sh
+## grab repo
+
+```
+git clone https://github.com/sudo-self/make-secret.git
+
+cd make-secret
+```
+## generate token from terminal anytime by running bash 32.sh
 
 ```
 bash 32.sh
