@@ -9,7 +9,7 @@
 
 
 
-## Command Lin
+## Command Line
 
 ```
 curl https://make-secret.vercel.app/32
