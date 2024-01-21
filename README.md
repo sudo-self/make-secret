@@ -9,7 +9,7 @@
 
 ## Command Line
 
-```bash
+```
 curl https://make-secret.vercel.app/32
 
 ```
