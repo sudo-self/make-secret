@@ -1,7 +1,5 @@
 ## ![icon-512](https://github.com/sudo-self/make-secret/assets/119916323/4446b0ab-1bf3-4f0e-bf6c-6b51face6f39)<a href="https://make-secret.vercel.app/32">make-secret</a>&nbsp;/32<hr>
 
-## <a href="https://make-secret.vercel.app/32">make Secret 32
-
 ## <a href="https://make-secret.vercel.app/48">make Secret 48
 
 
