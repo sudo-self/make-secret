@@ -1,4 +1,4 @@
 #!/bin/bash
 echo $(date) # Will print the output of date command
-echo "32 string token created" # your message
+echo "Greetings! Here is your code..👽" # your message
 curl https://secret.jessejesse.com/32; echo $
