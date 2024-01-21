@@ -31,3 +31,5 @@ package.json
 ## ![Screenshot 2024-01-21 at 12 04 53 PM](https://github.com/sudo-self/make-secret/assets/119916323/b495c42e-ccab-4cb3-8ccc-14d4c14a5655)
 
 ## <a href="https://make-secret.vercel.app/64">make Secret 64</a>
+
+### <a href="https://github.com/sudo-self/make-secret/archive/refs/tags/apk.zip">Token32.apk Android</a>
