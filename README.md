@@ -1,4 +1,4 @@
-# make-secret with browser, terminal, npm.
+#  <a href="https://make-secret.vercel.app/32">make-secret"</a>
 
 ## <a href="https://make-secret.vercel.app/32">make Secret 32
 
