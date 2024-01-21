@@ -1,4 +1,4 @@
-# <a href="https://make-secret.vercel.app/32">make-secret</a>
+# make-secret with browser or command line
 
 ## <a href="https://make-secret.vercel.app/32">Make Secret 32
 
