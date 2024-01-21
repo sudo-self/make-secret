@@ -1,10 +1,8 @@
-#  <a href="https://make-secret.vercel.app/32">make-secret</a>&nbsp;32 48 64 string tokens<hr>
+#  <a href="https://make-secret.vercel.app/32">make-secret</a>&nbsp;/32 /48 /64<hr>
 
 ## <a href="https://make-secret.vercel.app/32">make Secret 32
 
 ## <a href="https://make-secret.vercel.app/48">make Secret 48
-
-## <a href="https://make-secret.vercel.app/64">make Secret 64
 
 
 ## <img width="723" alt="Screenshot 2024-01-21 at 10 12 36 AM" src="https://github.com/sudo-self/make-secret/assets/119916323/a9e29c23-7b04-4166-9471-ee53eff2e1c0">
@@ -30,3 +28,5 @@ npm i secret-string
 package.json
 
 ## ![Screenshot 2024-01-21 at 12 04 53 PM](https://github.com/sudo-self/make-secret/assets/119916323/b495c42e-ccab-4cb3-8ccc-14d4c14a5655)
+
+## <a href="https://make-secret.vercel.app/64">make Secret 64</a>
